@@ -1,4 +1,4 @@
-// System (6)
+// System
 
 ring F=(0,bt),( lm, lm2), dp;
 
